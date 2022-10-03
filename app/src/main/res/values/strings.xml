@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Notification</string>
+    <string name="simple_notification">Simple Notification</string>
+    <string name="big_style_notification">Big Style Notification</string>
+    <string name="simple_notification_title">Simple Notification Title</string>
+    <string name="simple_notification_text">Simple Notification text</string>
+    <string name="bigtext_notification_title">Bigtext Notification Title</string>
+    <string name="bigtext_notification_text">Bigtext Notification Text</string>
+    <string name="bigpicture_notification_title">Bigpicture Notification Title</string>
+    <string name="bigpicture_notification_text">Bigpicture Notification Text</string>
+    <string name="inbox_notification_title">Inbox Notification Title</string>
+    <string name="inbox_notification_text">Inbox Notification Text</string>
+    <string name="action_notification_title">Action Notification Title</string>
+    <string name="action_notification_text">Action Notification Text</string>
+    <string name="action_notification">action notification</string>
+    <string name="inboxstyle_notification">InboxStyle Notification</string>
+    <string name="big_picture_notification">Big Picture Notification</string>
+
+
+</resources>
